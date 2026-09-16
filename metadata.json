@@ -1,0 +1,6 @@
+{
+  "name": "Naukri Domain Support Agent",
+  "description": "Production-grade Naukri.com recruitment and HR domain support agent featuring deterministic RAG, CrewAI orchestration, PII guardrails, Autogen compliance review, and governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
